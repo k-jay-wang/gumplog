@@ -1,0 +1,19 @@
+{
+  "name": "yan-log",
+  "version": "1.0.0",
+  "description": "a simple way to log in NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k-jay-wang/yan-log.git"
+  },
+  "author": "wangyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k-jay-wang/yan-log/issues"
+  },
+  "homepage": "https://github.com/k-jay-wang/yan-log#readme"
+}
