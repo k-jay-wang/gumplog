@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/k-jay-wang/yan-log/issues"
   },
-  "homepage": "https://github.com/k-jay-wang/yan-log#readme"
+  "homepage": "https://github.com/k-jay-wang/yan-log#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
