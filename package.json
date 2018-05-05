@@ -1,5 +1,5 @@
 {
-  "name": "yan-log",
+  "name": "gumplog",
   "version": "1.0.0",
   "description": "a simple way to log in NodeJs",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/k-jay-wang/yan-log.git"
+    "url": "git+https://github.com/k-jay-wang/gumplog.git"
   },
   "author": "wangyan",
   "license": "ISC",
